@@ -1,4 +1,49 @@
 <resources>
     <string name="app_name">WaterDiary</string>
     <string name="action_settings">Settings</string>
+    <string name="zero">0</string>
+    <!-- The username of the App Owner. Can be set in Settings-->
+    <string name="username">User</string>
+
+    <!-- Greeting used in home screen -->
+    <string name="greeting">Hi</string>
+
+    <!-- Labels for water details -->
+    <string name="total_water_label">Total Water Used</string>
+    <string name="average_use_label">Average Usage</string>
+
+    <!-- Labels for the entries table -->
+    <string name="date_label">Date</string>
+    <string name="usage_label">Usage</string>
+    <!-- Current total water usage values -->
+    <string name="total_water">0</string>
+    <string name="average_use">0</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- Calculator Values -->
+
+    <!--Labels -->
+
+    <string name="input_shower_label">Shower</string>
+    <string name="input_hygiene_label">Hygiene</string>
+    <string name="input_toilet_label">Toilet</string>
+    <string name="input_laundry_label">Laundry</string>
+    <string name="input_dishes_label">Dishes</string>
+    <string name="input_drinking_label">Drinking</string>
+    <string name="input_cooking_label">Cooking</string>
+    <string name="input_cleaning_label">Cleaning</string>
+    <string name="input_other_label">Other</string>
+    <string name="input_total_label">Total Used:</string>
+
+
+    <!-- Diary Values -->
+    <string name="prev_button">Prev</string>
+    <string name="overview_button">Overview</string>
+    <string name="next_button">Next</string>
+
+
 </resources>

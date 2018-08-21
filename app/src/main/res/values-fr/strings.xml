@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Eau Diary</string>
+    <string name="action_settings">Parametres</string>
+    <string name="zero">0</string>
+    <!-- The username of the App Owner. Can be set in Settings-->
+    <string name="username">Usager</string>
+
+    <!-- Greeting used in home screen -->
+    <string name="greeting">Salut</string>
+
+    <!-- Labels for water details -->
+    <string name="total_water_label">Eau Totale Nous</string>
+    <string name="average_use_label">Usage Moyen</string>
+
+    <!-- Labels for the entries table -->
+    <string name="date_label">Date</string>
+    <string name="usage_label">Usage</string>
+    <!-- Current total water usage values -->
+    <string name="total_water">0</string>
+    <string name="average_use">0</string>
+    <string name="title_activity_calculator">CalculatriceActivite</string>
+    <string name="title_home">Maison</string>
+    <string name="title_dashboard">Tableau de bord</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- Calculator Values -->
+
+    <!--Labels -->
+
+    <string name="input_shower_label">Douche</string>
+    <string name="input_hygiene_label">Hygiene</string>
+    <string name="input_toilet_label">Toilette</string>
+    <string name="input_laundry_label">Blanchisserie</string>
+    <string name="input_dishes_label">Dishes</string>
+    <string name="input_drinking_label">En Buvant</string>
+    <string name="input_cooking_label">Cuisine</string>
+    <string name="input_cleaning_label">Nettoyage</string>
+    <string name="input_other_label">Autre</string>
+    <string name="input_total_label">Total Utilise:</string>
+
+
+</resources>

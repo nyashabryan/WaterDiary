@@ -19,6 +19,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".CalculatorActivity"
+            android:label="@string/title_activity_calculator" />
+        <activity android:name=".DiaryActivity"></activity>
     </application>
 
 </manifest>
